@@ -1,0 +1,28 @@
+Python
+
+pycache/
+*.py[cod]
+
+Virtual environment
+
+.venv/
+venv/
+
+Local databases and health data
+
+*.db
+*.sqlite
+*.sqlite3
+
+Environment variables and secrets
+
+.env
+.env.*
+
+macOS
+
+.DS_Store
+
+Editor settings
+
+.vscode/
